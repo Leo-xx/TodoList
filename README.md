@@ -1,5 +1,5 @@
 # TodoList
-Vue全家桶+element UI 实现todolist
+Vue全家桶+element UI 做的一个简单todolist
 
 
 npm install
